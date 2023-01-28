@@ -1,4 +1,4 @@
 git is awesome!
-new line
+another new string
 experiment with amend
 new data
